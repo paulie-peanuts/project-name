@@ -1,0 +1,14 @@
+/Users/paulfilipkowski/Desktop/LaunchCode/project-name/project-name/bin/Debug/net8.0/project-name
+/Users/paulfilipkowski/Desktop/LaunchCode/project-name/project-name/bin/Debug/net8.0/project-name.deps.json
+/Users/paulfilipkowski/Desktop/LaunchCode/project-name/project-name/bin/Debug/net8.0/project-name.runtimeconfig.json
+/Users/paulfilipkowski/Desktop/LaunchCode/project-name/project-name/bin/Debug/net8.0/project-name.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/project-name/project-name/bin/Debug/net8.0/project-name.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/project-name/project-name/obj/Debug/net8.0/project-name.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulfilipkowski/Desktop/LaunchCode/project-name/project-name/obj/Debug/net8.0/project-name.AssemblyInfoInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/project-name/project-name/obj/Debug/net8.0/project-name.AssemblyInfo.cs
+/Users/paulfilipkowski/Desktop/LaunchCode/project-name/project-name/obj/Debug/net8.0/project-name.csproj.CoreCompileInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/project-name/project-name/obj/Debug/net8.0/project-name.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/project-name/project-name/obj/Debug/net8.0/refint/project-name.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/project-name/project-name/obj/Debug/net8.0/project-name.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/project-name/project-name/obj/Debug/net8.0/project-name.genruntimeconfig.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/project-name/project-name/obj/Debug/net8.0/ref/project-name.dll
